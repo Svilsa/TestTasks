@@ -1,18 +1,18 @@
-## Алгоритмы
+## РђР»РіРѕСЂРёС‚РјС‹
 
-1. [Auction](./Auction/src)
-2. [Gridnine](./Gridnine/src)
-3. [Mindbox](./MindboxTest/src)
+1. [Auction](./Auction)
+2. [Gridnine](./Gridnine)
+3. [Mindbox](./MindboxTest)
 
 ## UI
 
-|              Название              |        Описание         |
-|:----------------------------------:|:-----------------------:|
-| [ATagsCounter](./ATagsCounter/src) |   WPF + SemaphoreSlim   |
-|   [TreeView](./TreeViewTest/src)   | WPF + Fast Sync Context |
+|             РќР°Р·РІР°РЅРёРµ              |        РћРїРёСЃР°РЅРёРµ         |
+|:---------------------------------:|:-----------------------:|
+|  [ATagsCounter](./ATagsCounter)   |   WPF + SemaphoreSlim   |
+|    [TreeView](./TreeViewTest)     | WPF + Fast Sync Context |
 
 ## WEB
 
-|              Название              |        Описание         |
-|:----------------------------------:|:-----------------------:|
-|     [WebApi](./WebApiTest/src)     |      WebAPI + CRUD      |
+|             РќР°Р·РІР°РЅРёРµ              |        РћРїРёСЃР°РЅРёРµ         |
+|:---------------------------------:|:-----------------------:|
+|      [WebApi](./WebApiTest)       |      WebAPI + CRUD      |
